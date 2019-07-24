@@ -1,0 +1,130 @@
+
+body{
+    
+    Background-image:
+
+Linear-gradient(217deg, rgba(255,0,0,.8), rgba(255,0,0,0) 70.71%),
+
+Linear-gradient(127deg, black, black 70.71%),
+
+Linear-gradient(336deg, rgba(0,0,255,.8), rgba(0,0,255,0) 70.71%);
+}
+
+.line1{
+    display: flex;
+    
+    justify-content: center;
+    
+
+}
+.line8{
+    display: flex;
+    
+    justify-content: center;
+}
+.line2{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download1.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line2:hover{
+    opacity: 0.8;
+}
+
+.line3{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download2.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line3:hover{
+    opacity: 0.8;
+}
+.line4{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download3.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line4:hover{
+    opacity: 0.8;
+}
+.line5{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download4.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line5:hover{
+    opacity: 0.8;
+}
+.line6{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download5.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line6:hover{
+    opacity: 0.8;
+}
+.line7{
+    display: flex;
+    margin: 60px 30px;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../res/download6.png');
+    width: 250px;
+    height: 250px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.line7:hover{
+    opacity: 0.8;
+}
+.btnStyle1{
+    display: none;
+}
+.btnStyle2{
+    display: none;
+}
+.btnStyle3{
+    display: none;
+}
+.btnStyle4{
+    display: none;
+}
+.btnStyle5{
+    display: none;
+}
+.btnStyle6{
+    display: none;
+}
+.ex2{
+    text-decoration: none;
+}
